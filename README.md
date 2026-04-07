@@ -15,3 +15,5 @@ As I took a closer look, I found one imperative: "*Remember*." This is now what 
 This is a powerful application! At face value is doesn't seem like a S.M.A.R.T. application... its not "memorize 2 verse by next week" or "pray twice each day." Instead, its an application to remember -- to live with Christ and His sacrifice on your mind. Its a reminder that before we can do, do, do for God, we must realize His Gospel, what He did for us. The Gospel is not about obeying imperatives -- its about remembering what Christ did for you and for me. 
 
 So, download this code (and the necessary packages) or just take a look at the plots I've included. I'll continue to add more over time. But I hope that you can study them and realize a truth that you haven't noticed before in Scriptures that you might be familiar with. Take time to be curious and creative and look at the Bible with a new perspective every once and a while. I hope this helps!
+
+![imperativeplotter](https://github.com/user-attachments/assets/26197497-f9c9-447e-9d88-bbb8d18ede60)
