@@ -5,7 +5,7 @@ The imperative mood is when a verb expresses "a command, intention, exhortation,
 
 Here's an example: 1 Peter 2:13 say's, "*Be subject* for the Lord’s sake to every human institution, whether it be to the emperor as supreme, or to governors..." The big idea of this passage (and much of the overall theme of 1 Peter) is found right there in the imperative: "*Be subject*" (or, *subject yourselves*). It's Peter's desire that the recipients of his letter subject themselves to authorities under all trials and forms of persecution, not because he desires a weak people, but because it shows that their hope is not in earthly institutions. Instead, it is in God... therefore, be subject to the human institutions, rather than acting against them. 
 
-#Why the Imperative Plotter Matters#
+# Why the Imperative Plotter Matters
 When I use Logos Bible Software, I take advantage of the Visual Filter function. It allows me to highlight every imperative in the entire Bible, making interpretation much quicker. But when studying Ephesians, I noticed something. 
 
 Other books (like 1 Peter) had imperatives scattered evenly throughout the letter -- you can see that if you run my 1 Peter plot on this code. But Ephesians was different. It had a large clump of imperatives towards the end of the book, as most Pauline epistles do, but nearly none for the first 4 chapters. 
